@@ -74,11 +74,9 @@ px=0
 py=0
 pherox=300
 pheroy=300
-#villan
-vin1= pygame.image.load("tanker.png")
-vin2 = pygame.image.load("tankii.png")
 
-vin4 = pygame.image.load("tankiiii.png")
+
+
 bmta='non'
 bsta = 'none'
 bvin1=0
